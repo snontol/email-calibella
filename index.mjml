@@ -1,0 +1,95 @@
+<mjml>
+  <mj-head>
+    <mj-title>Cumpleaños de diciembre – Calibella</mj-title>
+    <mj-preview>Diseños personalizados hechos a mano en Vitoria-Gasteiz.</mj-preview>
+
+    <mj-font name="Fredoka" href="https://fonts.googleapis.com/css2?family=Fredoka:wght@600&display=swap" />
+    <mj-font name="Poppins" href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" />
+
+    <mj-attributes>
+      <mj-all font-family="Poppins, Arial, sans-serif" />
+      <mj-text color="#2B2B2B" font-size="16px" line-height="1.5" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body width="600px" background-color="#FFFFFF">
+
+    <!-- CABECERA -->
+    <mj-section background-color="#FFF4FA" padding="32px 0">
+      <mj-column>
+        <mj-image src="https://snontol.github.io/email-calibella/img/logo.png" width="140px" alt="Calibella" />
+      </mj-column>
+    </mj-section>
+
+        <!-- IMAGEN PRINCIPAL -->
+    <mj-section padding="0">
+      <mj-column>
+        <mj-image src="https://snontol.github.io/email-calibella/img/hero.jpg" width="320px" padding="0" alt="Tarta de cumpleaños de tres pisos con corona y mariposas doradas" href="https://calibella-elementor.infinityfreeapp.com/tartas-por-encargo/?utm_source=hubspot&utm_medium=email&utm_campaign=cumpleanos-diciembre" />
+      </mj-column>
+    </mj-section>
+
+    <!-- MENSAJE PRINCIPAL -->
+    <mj-section padding="40px 48px 40px 48px">
+      <mj-column>
+        <mj-text align="center" padding="0 0 16px 0">
+          <h1 style="margin:0; font-family:Fredoka, Arial, sans-serif; font-size:32px; line-height:1.2; color:#D4178C;">
+            Que tu tarta sea la protagonista del cumpleaños
+          </h1>
+        </mj-text>
+        <mj-text align="center" padding="0 0 24px 0">
+          Diciembre se llena de celebraciones. Cuéntanos el tema, los colores y el tamaño que quieres, y diseñaremos una tarta hecha a mano para ese día especial.
+        </mj-text>
+        <mj-button href="https://calibella-elementor.infinityfreeapp.com/tartas-por-encargo/?utm_source=hubspot&utm_medium=email&utm_campaign=cumpleanos-diciembre"
+          background-color="#D4178C" color="#FFFFFF" font-size="16px" font-weight="600"
+          border-radius="30px" inner-padding="16px 32px">
+          Encarga tu tarta
+        </mj-button>
+      </mj-column>
+    </mj-section>
+
+        <!-- PRODUCTOS: TÍTULO -->
+    <mj-section background-color="#FFF4FA" padding="40px 40px 16px 40px">
+      <mj-column>
+        <mj-text align="center" padding="0">
+          <h2 style="margin:0; font-family:Fredoka, Arial, sans-serif; font-size:22px; color:#D4178C;">
+            Ideas para tu celebración
+          </h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- PRODUCTOS: TARJETAS -->
+    <mj-section background-color="#FFF4FA" padding="0 40px 40px 40px">
+      <mj-column width="50%" padding="0 8px" inner-background-color="#FFFFFF" inner-border-radius="16px">
+        <mj-image src="https://snontol.github.io/email-calibella/img/cupcakes.jpg" alt="Caja de 12 cupcakes decorados con nombre" border-radius="12px" padding="8px 8px 0 8px" />
+        <mj-text align="center" font-weight="600" padding="12px 8px 4px 8px">Caja de 12 cupcakes</mj-text>
+        <mj-text align="center" font-size="14px" padding="0 8px 16px 8px">Decorados a mano con el nombre y los detalles que elijas.</mj-text>
+      </mj-column>
+
+      <mj-column width="50%" padding="0 8px" inner-background-color="#FFFFFF" inner-border-radius="16px">
+        <mj-image src="https://snontol.github.io/email-calibella/img/tarta-tematica.jpg" alt="Tarta temática de mecánica con piezas de motor" border-radius="12px" padding="8px 8px 0 8px" />
+        <mj-text align="center" font-weight="600" padding="12px 8px 4px 8px">Tarta temática personalizada</mj-text>
+        <mj-text align="center" font-size="14px" padding="0 8px 16px 8px">Tu afición o profesión hecha tarta: motor, deporte, música…</mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- PIE -->
+    <mj-section background-color="#5DC3CF" padding="40px 48px">
+      <mj-column>
+        <mj-text align="center" padding="0 0 8px 0">
+          <h2 style="margin:0; font-family:Fredoka, Arial, sans-serif; font-size:22px; color:#2B2B2B;">
+            ¿Tienes alguna pregunta?
+          </h2>
+        </mj-text>
+        <mj-text align="center" padding="0 0 16px 0">
+          Responde a este correo o escríbenos por WhatsApp.
+        </mj-text>
+        <mj-text align="center" font-size="12px" padding="0">
+          Calibella · Calle Logroño, 9 · Vitoria-Gasteiz<br />
+          <a href="#" style="color:#2B2B2B;">Darse de baja</a> · <a href="#" style="color:#2B2B2B;">Gestionar preferencias</a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+  </mj-body>
+</mjml>
